@@ -15,7 +15,7 @@ When using similar apps I found I would frequently not notice the notification o
 ```PowerShell
 > git clone https://github.com/Tbruno25/twenty_cubed
 # cd into the twenty_cubed directory 
-> pip -r requirements.txt
+> pip install -r requirements.txt
 ```
 
 ## Usage

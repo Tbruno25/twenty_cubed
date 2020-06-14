@@ -1,6 +1,6 @@
-# 20³
+# 20³ <img align="left" width="50" height="50" src="https://i.ibb.co/L1Q5t4w/output-onlinepngtools.png">
 
-A System Tray app that provides a reminder to follow the 20/20/20 rule <img align="right" src="https://i.ibb.co/L1Q5t4w/output-onlinepngtools.png">
+A System Tray app that provides a reminder to follow the 20/20/20 rule.
 
 ## Description
 It's recommended to abide by the 20/20/20 rule when looking at a screen | or in other words: 

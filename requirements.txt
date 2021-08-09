@@ -1,4 +1,4 @@
-﻿Pillow==7.1.2
+﻿Pillow==8.2.0
 pystray==0.16.0
 pywin32==301
 six==1.15.0
